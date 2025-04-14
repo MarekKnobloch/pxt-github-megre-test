@@ -2,4 +2,4 @@
 
 let x: number;
 
-basic.showNumber(Other.y);
+basic.showNumber(Other3.y);
